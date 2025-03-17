@@ -1,1 +1,2 @@
-e;e;22;4;a
+Eric;Rodriguez;18;DAM;12345678K
+prueba;prueba;22;DAW;14214142K
